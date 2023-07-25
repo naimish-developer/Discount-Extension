@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "N:/Shopify/config-Api"
+		}
+	],
+	"settings": {
+		"i18n-ally.enabledFrameworks": [
+			"i18next-shopify"
+		],
+		"i18n-ally.keystyle": "nested"
+	}
+}
